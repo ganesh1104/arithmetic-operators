@@ -2,6 +2,8 @@ a=5
 b=7
 x=10
 y=11
+p=45
+q=112
 c=a+b
 d=a-b
 e=a*b
@@ -9,6 +11,8 @@ f=a/b
 g=a%b
 z=x+y
 u=x-y
+r=p%q
+s=p/q
 print(c)
 print(d)
 print(e)
@@ -16,3 +20,5 @@ print(f)
 print(g)
 print(z)
 print(u)
+print(r)
+print(s)
